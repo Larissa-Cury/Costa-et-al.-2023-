@@ -1,5 +1,5 @@
 # Costa-et-al.-2023-
-We provide the data files discussed and analysed in the paper:
+We provide the data files discussed and analysed in the paper. Please cite as:
 
 COSTA, Ana Clara; CURY, Larissa; FINGER, Ingrid; MOTA, Natália B.; WEISSHEIMER, Janaina (2023). Two languages in one mind: Biliteracy, speech connectedness and reading in bilingual children. Manuscript submitted for publication.
 
